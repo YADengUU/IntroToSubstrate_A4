@@ -1,0 +1,1 @@
+/Users/denya188/Documents/COURSE_MATERIAL/SUBSTRATE/IntroToSubstrate_A4/compute_areas/target/debug/compute_areas: /Users/denya188/Documents/COURSE_MATERIAL/SUBSTRATE/IntroToSubstrate_A4/compute_areas/src/main.rs
