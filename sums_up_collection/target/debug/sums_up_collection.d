@@ -1,0 +1,1 @@
+/Users/denya188/Documents/COURSE_MATERIAL/SUBSTRATE/IntroToSubstrate_A4/sums_up_collection/target/debug/sums_up_collection: /Users/denya188/Documents/COURSE_MATERIAL/SUBSTRATE/IntroToSubstrate_A4/sums_up_collection/src/main.rs
